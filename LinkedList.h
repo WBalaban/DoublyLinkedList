@@ -15,7 +15,6 @@ public:
 	LinkedList(const LinkedList& that) = delete;
 
 private:
-
 	struct LinkedListNode
 	{
 		T mValue{};
